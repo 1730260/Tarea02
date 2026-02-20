@@ -1,12 +1,8 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
-
-[Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+# [Graphic Designer](https://portfolio.com/theme/Designer/)
 
 ## Preview
 
 [![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
 
 ## Status
 
@@ -69,7 +65,7 @@ Start Bootstrap is an open source library of free Bootstrap themes and templates
 - <https://startbootstrap.com>
 - <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+Protfolio was created by and is maintained by **[Sahil Singh](https://sahilsingh.io/)**.
 
 - <https://davidmiller.io>
 - <https://twitter.com/davidmillerhere>
